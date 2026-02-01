@@ -1,0 +1,31 @@
+id,timestamp,type_action,description,etat_feu,scenario,details,created_at
+30,2026-01-16 01:29:28.371161,FEU,Changement VERT → ROUGE,ROUGE,Circulation normale,{},2026-01-16 01:29:28
+29,2026-01-16 01:29:28.367904,SCÉNARIO,Changement vers Heure de pointe,VERT,Heure de pointe,"{""ancien"": ""normal"", ""nouveau"": ""heure_pointe""}",2026-01-16 01:29:28
+28,2026-01-16 01:29:28.363975,SIMULATION,Démarrage de la simulation,ROUGE,Circulation normale,"{""version"": ""1.0""}",2026-01-16 01:29:28
+27,2026-01-16 01:29:27.044416,FEU,Changement VERT → ROUGE,ROUGE,Circulation normale,{},2026-01-16 01:29:27
+26,2026-01-16 01:29:27.041076,SCÉNARIO,Changement vers Heure de pointe,VERT,Heure de pointe,"{""ancien"": ""normal"", ""nouveau"": ""heure_pointe""}",2026-01-16 01:29:27
+25,2026-01-16 01:29:27.035130,SIMULATION,Démarrage de la simulation,ROUGE,Circulation normale,"{""version"": ""1.0""}",2026-01-16 01:29:27
+24,2026-01-16 01:29:25.593805,FEU,Changement VERT → ROUGE,ROUGE,Circulation normale,{},2026-01-16 01:29:25
+23,2026-01-16 01:29:25.590632,SCÉNARIO,Changement vers Heure de pointe,VERT,Heure de pointe,"{""ancien"": ""normal"", ""nouveau"": ""heure_pointe""}",2026-01-16 01:29:25
+22,2026-01-16 01:29:25.584774,SIMULATION,Démarrage de la simulation,ROUGE,Circulation normale,"{""version"": ""1.0""}",2026-01-16 01:29:25
+21,2026-01-16 01:29:24.507223,FEU,Changement VERT → ROUGE,ROUGE,Circulation normale,{},2026-01-16 01:29:24
+20,2026-01-16 01:29:24.503732,SCÉNARIO,Changement vers Heure de pointe,VERT,Heure de pointe,"{""ancien"": ""normal"", ""nouveau"": ""heure_pointe""}",2026-01-16 01:29:24
+19,2026-01-16 01:29:24.499978,SIMULATION,Démarrage de la simulation,ROUGE,Circulation normale,"{""version"": ""1.0""}",2026-01-16 01:29:24
+18,2026-01-16 01:29:22.787677,FEU,Changement VERT → ROUGE,ROUGE,Circulation normale,{},2026-01-16 01:29:22
+17,2026-01-16 01:29:22.784449,SCÉNARIO,Changement vers Heure de pointe,VERT,Heure de pointe,"{""ancien"": ""normal"", ""nouveau"": ""heure_pointe""}",2026-01-16 01:29:22
+16,2026-01-16 01:29:22.777642,SIMULATION,Démarrage de la simulation,ROUGE,Circulation normale,"{""version"": ""1.0""}",2026-01-16 01:29:22
+15,2026-01-16 01:29:21.458077,FEU,Changement VERT → ROUGE,ROUGE,Circulation normale,{},2026-01-16 01:29:21
+14,2026-01-16 01:29:21.454924,SCÉNARIO,Changement vers Heure de pointe,VERT,Heure de pointe,"{""ancien"": ""normal"", ""nouveau"": ""heure_pointe""}",2026-01-16 01:29:21
+13,2026-01-16 01:29:21.448909,SIMULATION,Démarrage de la simulation,ROUGE,Circulation normale,"{""version"": ""1.0""}",2026-01-16 01:29:21
+12,2026-01-16 01:29:20.130402,FEU,Changement VERT → ROUGE,ROUGE,Circulation normale,{},2026-01-16 01:29:20
+11,2026-01-16 01:29:20.127024,SCÉNARIO,Changement vers Heure de pointe,VERT,Heure de pointe,"{""ancien"": ""normal"", ""nouveau"": ""heure_pointe""}",2026-01-16 01:29:20
+10,2026-01-16 01:29:20.120033,SIMULATION,Démarrage de la simulation,ROUGE,Circulation normale,"{""version"": ""1.0""}",2026-01-16 01:29:20
+9,2026-01-16 01:29:18.634111,FEU,Changement VERT → ROUGE,ROUGE,Circulation normale,{},2026-01-16 01:29:18
+8,2026-01-16 01:29:18.630328,SCÉNARIO,Changement vers Heure de pointe,VERT,Heure de pointe,"{""ancien"": ""normal"", ""nouveau"": ""heure_pointe""}",2026-01-16 01:29:18
+7,2026-01-16 01:29:18.600623,SIMULATION,Démarrage de la simulation,ROUGE,Circulation normale,"{""version"": ""1.0""}",2026-01-16 01:29:18
+6,2026-01-16 01:29:08.989960,FEU,Changement VERT → ROUGE,ROUGE,Circulation normale,{},2026-01-16 01:29:08
+5,2026-01-16 01:29:08.986410,SCÉNARIO,Changement vers Heure de pointe,VERT,Heure de pointe,"{""ancien"": ""normal"", ""nouveau"": ""heure_pointe""}",2026-01-16 01:29:08
+4,2026-01-16 01:29:08.982202,SIMULATION,Démarrage de la simulation,ROUGE,Circulation normale,"{""version"": ""1.0""}",2026-01-16 01:29:08
+3,2026-01-16 01:23:42.598794,FEU,Changement VERT → ROUGE,ROUGE,Circulation normale,{},2026-01-16 01:23:42
+2,2026-01-16 01:23:42.596038,SCÉNARIO,Changement vers Heure de pointe,VERT,Heure de pointe,"{""ancien"": ""normal"", ""nouveau"": ""heure_pointe""}",2026-01-16 01:23:42
+1,2026-01-16 01:23:42.593327,SIMULATION,Démarrage de la simulation,ROUGE,Circulation normale,"{""version"": ""1.0""}",2026-01-16 01:23:42
