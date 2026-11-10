@@ -1,0 +1,12 @@
+# Environnement Python
+.venv/
+__pycache__/
+*.pyc
+
+# Fichiers de l'éditeur
+.idea/
+
+# Fichiers produits par la simulation
+*.db
+*.log
+export_*.csv
